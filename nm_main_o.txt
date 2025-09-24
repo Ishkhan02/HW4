@@ -1,0 +1,4 @@
+0000000000000000 r .LC0
+                 U __printf_chk
+0000000000000000 T main
+                 U square
